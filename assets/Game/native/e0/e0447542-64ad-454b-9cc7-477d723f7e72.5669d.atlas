@@ -1,0 +1,41 @@
+
+zhuankuai4.png
+size: 74,31
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 27, 28
+  orig: 29, 28
+  offset: 1, 0
+  index: -1
+2
+  rotate: true
+  xy: 55, 11
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 55, 11
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 32, 8
+  size: 21, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 32, 8
+  size: 21, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
